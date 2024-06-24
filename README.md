@@ -1,5 +1,12 @@
 # Hi there 👋, I'm Alejandro Gonzalez Chavez
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alejandro-gonzalez-chavez/)
+
+## 📫 Contact Me
+
+- **Email**: [a17jul@gmail.com]
+- **LinkedIn**: [Alejandro Gonzalez Chavez](www.linkedin.com/in/alejandro-gonzalez-chavez)
+- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/Gonzalez-Chavez-Alejandro?label=Follow&style=social)](https://github.com/Gonzalez-Chavez-Alejandro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alejandro-gonzalez-chavez/)
