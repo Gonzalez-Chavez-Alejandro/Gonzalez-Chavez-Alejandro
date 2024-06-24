@@ -5,7 +5,7 @@
 
 - **Email**: [a17jul@gmail.com]
 - **LinkedIn**: [Alejandro Gonzalez Chavez](https://www.linkedin.com/in/alejandro-gonzalez-chavez/)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
 
 <!--
 [![GitHub followers](https://img.shields.io/github/followers/Gonzalez-Chavez-Alejandro?label=Follow&style=social)](https://github.com/Gonzalez-Chavez-Alejandro)
