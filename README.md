@@ -4,7 +4,7 @@
 ## 📫 Contact Me
 
 - **Email**: [a17jul@gmail.com]
-- **LinkedIn**: [Alejandro Gonzalez Chavez](www.linkedin.com/in/alejandro-gonzalez-chavez)
+- **LinkedIn**: [Alejandro Gonzalez Chavez](https://www.linkedin.com/in/alejandro-gonzalez-chavez/)
 - **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 <!--
