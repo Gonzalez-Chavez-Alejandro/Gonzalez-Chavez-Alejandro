@@ -32,5 +32,6 @@
 
 
 ## Las estadisticas del repositorio
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark&hide_border=true)
+
 
