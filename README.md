@@ -80,15 +80,6 @@ Panel avanzado para visualización y análisis de datos desarrollado con Laravel
 
 ---
 
-## 🎯 Objetivos Actuales
-
-* Mejorar mis habilidades en arquitectura de software.
-* Aprender más sobre despliegue en la nube y DevOps.
-* Contribuir a proyectos de código abierto.
-* Desarrollar aplicaciones Full Stack más escalables y eficientes.
-
----
-
 <div align="center">
 
 ### ⭐ Gracias por visitar mi perfil ⭐
