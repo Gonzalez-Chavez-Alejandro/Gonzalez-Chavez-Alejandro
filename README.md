@@ -33,10 +33,6 @@ Apasionado por el desarrollo web, la creaci√≥n de sistemas escalables y el dise√
 <a href="https://www.linkedin.com/in/alejandro-gonzalez-chavez" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
-
-<a href="https://discord.gg/gonzalezchavezalejandro" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"/>
-</a>
 </p>
 
 ---
