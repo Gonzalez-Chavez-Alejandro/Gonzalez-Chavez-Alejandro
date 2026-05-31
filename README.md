@@ -33,9 +33,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<h2>📊 GitHub Stats</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gonzalez-Chavez-Alejandro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalez-Chavez-Alejandro&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 </div>
 
